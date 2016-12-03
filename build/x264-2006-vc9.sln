@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x264-2006-learning", "x264-2006-learning.vcproj", "{0572705C-76D1-4B8C-B103-7192D36213DE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "x264-2006-vc9", "x264-2006-vc9.vcproj", "{0572705C-76D1-4B8C-B103-7192D36213DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

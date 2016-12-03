@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9.00"
-	Name="x264-2006-learning"
+	Name="x264-2006-vc9"
 	ProjectGUID="{0572705C-76D1-4B8C-B103-7192D36213DE}"
-	RootNamespace="x2642006learning"
+	RootNamespace="x2642006vc9"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
@@ -174,87 +174,87 @@
 			UniqueIdentifier="{4FC737F1-C7A5-4376-A066-2A32D752A2FF}"
 			>
 			<File
-				RelativePath="..\..\src\analyse.c"
+				RelativePath="..\source\analyse.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\cabac.c"
+				RelativePath="..\source\cabac.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\cavlc.c"
+				RelativePath="..\source\cavlc.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\common.c"
+				RelativePath="..\source\common.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\dct.c"
+				RelativePath="..\source\dct.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_cabac.c"
+				RelativePath="..\source\enc_cabac.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_macroblock.c"
+				RelativePath="..\source\enc_macroblock.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_set.c"
+				RelativePath="..\source\enc_set.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\encoder.c"
+				RelativePath="..\source\encoder.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\frame.c"
+				RelativePath="..\source\frame.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\getopt.c"
+				RelativePath="..\source\getopt.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\macroblock.c"
+				RelativePath="..\source\macroblock.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\mc.c"
+				RelativePath="..\source\mc.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\me.c"
+				RelativePath="..\source\me.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\pixel.c"
+				RelativePath="..\source\pixel.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\predict.c"
+				RelativePath="..\source\predict.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\quant.c"
+				RelativePath="..\source\quant.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\ratecontrol.c"
+				RelativePath="..\source\ratecontrol.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\rdo.c"
+				RelativePath="..\source\rdo.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\set.c"
+				RelativePath="..\source\set.c"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\x264.c"
+				RelativePath="..\source\x264.c"
 				>
 			</File>
 		</Filter>
@@ -264,87 +264,87 @@
 			UniqueIdentifier="{93995380-89BD-4b04-88EB-625FBE52EBFB}"
 			>
 			<File
-				RelativePath="..\..\src\analyse.h"
+				RelativePath="..\source\analyse.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\bs.h"
+				RelativePath="..\source\bs.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\cabac.h"
+				RelativePath="..\source\cabac.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\common.h"
+				RelativePath="..\source\common.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\dct.h"
+				RelativePath="..\source\dct.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_cabac.h"
+				RelativePath="..\source\enc_cabac.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_macroblock.h"
+				RelativePath="..\source\enc_macroblock.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\enc_set.h"
+				RelativePath="..\source\enc_set.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\frame.h"
+				RelativePath="..\source\frame.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\getopt.h"
+				RelativePath="..\source\getopt.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\macroblock.h"
+				RelativePath="..\source\macroblock.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\mc.h"
+				RelativePath="..\source\mc.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\me.h"
+				RelativePath="..\source\me.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\pixel.h"
+				RelativePath="..\source\pixel.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\predict.h"
+				RelativePath="..\source\predict.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\quant.h"
+				RelativePath="..\source\quant.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\ratecontrol.h"
+				RelativePath="..\source\ratecontrol.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\rdo.h"
+				RelativePath="..\source\rdo.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\set.h"
+				RelativePath="..\source\set.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\vlc.h"
+				RelativePath="..\source\vlc.h"
 				>
 			</File>
 			<File
-				RelativePath="..\..\src\x264.h"
+				RelativePath="..\source\x264.h"
 				>
 			</File>
 		</Filter>
